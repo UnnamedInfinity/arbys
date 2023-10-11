@@ -1,13 +1,12 @@
 [
 	{
 		"name": "arbys",
-		"cost": 480,
+		"cost": 75,
 		"happiness": 2,
 		"culture": 1,
 		"food": 2,
-		"maintenance": 1,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"gold": 1,
+		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Breeders",
