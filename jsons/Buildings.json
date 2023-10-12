@@ -11,7 +11,7 @@
 	{
 		"name": "sandwich labs",
 		"cost": 300,
-		"science": 2,
+		"science": 3,
 		"culture": 2,
 		"requiredTech": "Scientific Theory"
 	}
