@@ -6,7 +6,8 @@
 		"culture": 2,
 		"food": 2,
 		"gold": 2,
-		"requiredTech": "Trapping"
+		"requiredTech": "Trapping",
+		"uniques": ["+2 Faith before Renaissance era"]
 	},
 	{
 		"name": "sandwich labs",
