@@ -3,16 +3,16 @@
 		"name": "arbys",
 		"cost": 75,
 		"happiness": 2,
-		"culture": 1,
+		"culture": 2,
 		"food": 2,
-		"gold": 1,
+		"gold": 2,
 		"requiredTech": "Trapping"
 	},
 	{
-		"name": "Breeders",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"requiredTech": "Engineering"
+		"name": "sandwich labs",
+		"cost": 300,
+		"science": 2,
+		"culture": 2,
+		"requiredTech": "Scientific Theory"
 	}
 ]
